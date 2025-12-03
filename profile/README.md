@@ -10,6 +10,6 @@ Web3 Security & Education
 ## Contacts
 - 📧 Email: audit@cyfrin.io
 - 🌐 [Website](https://cyfrin.io)
-- 🐦 [Twitter](https://twitter.com/CyfrinAudits)
+- 🐦 [X/Twitter](https://x.com/cyfrin)
 - 💼 [LinkedIn](https://www.linkedin.com/company/cyfrin)
 - 💬 [Discord](https://discord.gg/cyfrin)
